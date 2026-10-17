@@ -1,5 +1,3 @@
-# hashcat-password-cracking
-Practical Hashcat case study covering mask attacks, dictionary rules, salted hashes and GPU troubleshooting
 # Password Cracking with Hashcat: Masks, Rules, Salts and GPU Troubleshooting
 
 **Yogisha Paneru** · Practical lab case study · October 2026
